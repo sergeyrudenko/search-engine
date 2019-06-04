@@ -1,0 +1,8 @@
+{
+  "port": 6969,
+
+  "secretkey": "search-engine",
+  "directory": "../../docs",
+  "logDir": "./logs",
+  "moduleCount": 7
+}

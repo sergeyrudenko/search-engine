@@ -1,0 +1,39 @@
+{
+  "name": "search",
+  "version": "1.0.0",
+  "description": "Serch engine test task, with rabbitMQ, Mongodb, redis, JWT token auth, logger & docker config",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "start-docker": "DOCKER=true NODE_ENV=development node ./src/index.js",
+    "inspect": "cross-env NODE_ENV=development node --inspect-brk=9229 ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "RabbitMQ",
+    "node.js",
+    "MongoDB",
+    "Redis",
+    "JWT"
+  ],
+  "author": "Sergey Rudenko",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.3",
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "cross-env": "^5.2.0",
+    "express": "^4.16.4",
+    "helmet": "^3.16.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.5.2",
+    "redis": "^2.8.0",
+    "simple-node-logger": "^18.12.22"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "lint-staged": "^8.1.5",
+    "eslint-config-google": "^0.12.0"
+  }
+}

@@ -1,0 +1,27 @@
+version: '3'
+services:
+  search:
+    container_name: serch-engine
+    restart: on-failure
+    build: .
+    ports:
+      - '6969:6969'
+    links:
+      - redis
+      - rabbitmq
+    networks:
+      - app-network
+
+  rabbitmq:
+    image: rabbitmq:latest
+    networks:
+      - app-network
+
+  redis:
+    image: redis:latest
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge

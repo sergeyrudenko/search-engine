@@ -1,0 +1,49 @@
+17:07:03.807 INFO  {"message":"Start scanning dirrectory"} 
+17:07:03.852 INFO  {"message":"new files found","files":["chapter1.txt","chapter2.txt"]} 
+17:07:05.316 INFO  {"message":"Start indexing file","filename":"chapter1.txt"} 
+17:07:05.825 INFO  {"message":"Start indexing file","filename":"chapter2.txt"} 
+17:12:03.803 INFO  {"message":"Start scanning dirrectory"} 
+17:12:03.847 INFO  {"message":"new files found","files":["chapter1.txt","chapter2.txt"]} 
+17:12:05.187 INFO  {"message":"Start indexing file","filename":"chapter1.txt"} 
+17:12:05.652 INFO  {"message":"Start indexing file","filename":"chapter2.txt"} 
+17:17:03.803 INFO  {"message":"Start scanning dirrectory"} 
+17:17:03.847 INFO  {"message":"new files found","files":["chapter1.txt","chapter2.txt"]} 
+17:17:05.209 INFO  {"message":"Start indexing file","filename":"chapter1.txt"} 
+17:17:05.835 INFO  {"message":"Start indexing file","filename":"chapter2.txt"} 
+17:20:29.661 INFO  {"message":"App started with no error"} 
+17:22:32.909 INFO  {"message":"App started with no error"} 
+17:46:35.726 INFO  {"message":"App started with no error"} 
+17:47:22.361 INFO  {"message":"App started with no error"} 
+17:47:55.289 INFO  {"message":"App started with no error"} 
+17:49:11.218 INFO  {"message":"App started with no error"} 
+17:50:08.695 INFO  {"message":"App started with no error"} 
+17:50:12.797 INFO  {"message":"user authorized","decodeResult":{"user":"guest","date":1555685278722,"iat":1555685278}} 
+17:50:22.084 INFO  {"message":"App started with no error"} 
+17:50:24.354 INFO  {"message":"user authorized","decodeResult":{"user":"guest","date":1555685278722,"iat":1555685278}} 
+17:50:29.946 INFO  {"message":"user authorized","decodeResult":{"user":"guest","date":1555685278722,"iat":1555685278}} 
+17:50:56.610 INFO  {"message":"user authorized","decodeResult":{"user":"guest","date":1555685278722,"iat":1555685278}} 
+17:51:28.398 INFO  {"message":"user authorized","decodeResult":{"user":"guest","date":1555685278722,"iat":1555685278}} 
+17:51:40.306 INFO  {"message":"user authorized","decodeResult":{"user":"guest","date":1555685278722,"iat":1555685278}} 
+17:52:58.051 INFO  {"message":"App started with no error"} 
+17:53:00.060 INFO  {"message":"user authorized","decodeResult":{"user":"guest","date":1555685278722,"iat":1555685278}} 
+17:53:13.977 INFO  {"message":"user authorized","decodeResult":{"user":"guest","date":1555685278722,"iat":1555685278}} 
+18:07:14.723 INFO  {"message":"App started with no error"} 
+18:08:42.364 INFO  {"message":"App started with no error"} 
+18:11:53.385 INFO  {"message":"App started with no error"} 
+18:12:47.143 INFO  {"message":"App started with no error"} 
+18:12:47.187 INFO  {"message":"Start scanning dirrectory"} 
+18:12:47.190 INFO  {"message":"new files found","files":["chapter1.txt","chapter2.txt"]} 
+18:12:48.696 INFO  {"message":"Start indexing file","filename":"chapter1.txt"} 
+18:12:49.182 INFO  {"message":"Start indexing file","filename":"chapter2.txt"} 
+18:17:47.051 INFO  {"message":"Start scanning dirrectory"} 
+18:22:47.038 INFO  {"message":"Start scanning dirrectory"} 
+18:27:47.040 INFO  {"message":"Start scanning dirrectory"} 
+18:32:47.039 INFO  {"message":"Start scanning dirrectory"} 
+18:37:47.039 INFO  {"message":"Start scanning dirrectory"} 
+18:42:47.040 INFO  {"message":"Start scanning dirrectory"} 
+18:47:47.040 INFO  {"message":"Start scanning dirrectory"} 
+23:41:03.392 INFO  {"message":"App started with no error"} 
+23:41:03.399 INFO  {"message":"Start scanning dirrectory"} 
+23:41:19.227 INFO  {"message":"user authorized","decodeResult":{"user":"guest","date":1555685278722,"iat":1555685278}} 
+23:41:31.559 INFO  {"message":"user authorized","decodeResult":{"user":"guest","date":1555685278722,"iat":1555685278}} 
+23:41:37.219 INFO  {"message":"user authorized","decodeResult":{"user":"guest","date":1555685278722,"iat":1555685278}} 
