@@ -1,10 +1,12 @@
-# Serch engine source code by Sergey Rudenko
+# Serch engine source code
 You can change directory for scanning in main config module 
 
-Install docker & docker-compose first
+#Install docker & docker-compose first
 Project depends redis & rabbitmq and will be start with that containers
 
-run 'docker-compose up --build' to build & run project in docker
+#run 'docker-compose up --build' 
+
+to build & run project in docker
 
 After running project wait 10 sec for rabbitmq container started, 
 after that project avalailable on localhost:6969
